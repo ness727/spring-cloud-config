@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: test12341234@test1234567890.com
+  secret: test12341234@test1234567890.comGood
 
 gateway:
   ip: 192.160.0.18
