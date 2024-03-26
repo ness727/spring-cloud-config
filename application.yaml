@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: test12341234@test1234567890.com_default
+  secret: test12341234@test1234567890.com_application
 
 gateway:
   ip: 192.160.0.18
