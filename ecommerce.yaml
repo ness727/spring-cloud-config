@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: test12341234@test1234567890.com_default
+  secret: '{cipher}AQB3KKJRO3gTwZe/s87e7iJsp3beKfhXj15OFyNMsGBqLYgG1hoxbjyi4g5DxIkT9pHbzS9PSWjEPcINhctQ+n8Q2GnshKkzYUnT8ff+YAkgqq4C6JmE71T5NFGFGaMfOPkmnn7UrEnHHDMxjf0i9iMTSBAh1D9MV/oq8+SbAbA+QHhaRkTARPV7M/hVQAnq/hJVwYoS3K2j4u1T06TQYvS6euVebcvBzdaUZ07zVQeW6jxe5PLCDu7g48MIV11WiXcspjPkQRu7vdIprDSkZt055zTOp9Sfni5Dn9Q8c8GIwviEkmsxM4oFAwMqaA2gFn+I9vqL9CmfVv/mYmjlLitTl9M0iNoUQyQmLfipdLBWDz/fqBHofno9cOObukp1+yqc9GhhcZNaTbXK5cvgCjM2TdqiPVW8PViQtuEzA8o2bQ=='
 
 gateway:
   ip: 192.160.0.18
